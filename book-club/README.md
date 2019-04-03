@@ -62,9 +62,9 @@
 
 ## 2019-03-28
 * 講者： gina
-* 主題：
-* 須參加人員：
-* 事前準備：
+* 主題：美學的意義
+* 須參加人員：全部
+* 事前準備：[PTT](https://drive.google.com/file/d/1SbFguf6SWJooiKjV3zcfussjY_ACzuYn/view?usp=sharing)
 
 ## 2019-04-04
 * 講者： taylor
